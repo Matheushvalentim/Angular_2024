@@ -12,4 +12,7 @@ h1{
 ul{
 
     color: white;
+    position: relative;
+    font-size: 20pt;
+    font-style: Times;
 }
